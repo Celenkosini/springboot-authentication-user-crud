@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.nyawo.user_management_demo.UserManagementDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.73 s -- in com.nyawo.user_management_demo.UserManagementDemoApplicationTests

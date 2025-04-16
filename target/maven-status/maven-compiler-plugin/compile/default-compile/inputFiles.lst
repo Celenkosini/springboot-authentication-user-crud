@@ -1,0 +1,10 @@
+C:\Users\teacher\Documents\france-visit\user-management\user-management-demo\src\main\java\com\nyawo\user_management_demo\controller\UserController.java
+C:\Users\teacher\Documents\france-visit\user-management\user-management-demo\src\main\java\com\nyawo\user_management_demo\DTO\AuthRequest.java
+C:\Users\teacher\Documents\france-visit\user-management\user-management-demo\src\main\java\com\nyawo\user_management_demo\DTO\AuthResponce.java
+C:\Users\teacher\Documents\france-visit\user-management\user-management-demo\src\main\java\com\nyawo\user_management_demo\DTO\UserDTO.java
+C:\Users\teacher\Documents\france-visit\user-management\user-management-demo\src\main\java\com\nyawo\user_management_demo\model\User.java
+C:\Users\teacher\Documents\france-visit\user-management\user-management-demo\src\main\java\com\nyawo\user_management_demo\repository\UserRepository.java
+C:\Users\teacher\Documents\france-visit\user-management\user-management-demo\src\main\java\com\nyawo\user_management_demo\service\Auth\CustomUserDetailsService.java
+C:\Users\teacher\Documents\france-visit\user-management\user-management-demo\src\main\java\com\nyawo\user_management_demo\service\userImpl\UserServiceImpl.java
+C:\Users\teacher\Documents\france-visit\user-management\user-management-demo\src\main\java\com\nyawo\user_management_demo\service\UserService.java
+C:\Users\teacher\Documents\france-visit\user-management\user-management-demo\src\main\java\com\nyawo\user_management_demo\UserManagementDemoApplication.java
